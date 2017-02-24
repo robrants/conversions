@@ -1,3 +1,11 @@
 {"author":"Robert Black",
 "name":"conversions",
-"version": "0.0.1"}
+"version": "0.0.1",
+"repository":{
+ "type": "git",
+ "url": "https://github.com/robrants/conversions"
+},
+"keywords":["metric","standard","convert"],
+"dependencies":{},
+"engines":{"node":"*"}
+}
